@@ -73,7 +73,7 @@ python main.py
 
 ##  Screenshots
 
-
+![gui](screenshots/Screenshot(23).png)
 
 
 ---

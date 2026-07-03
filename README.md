@@ -1,4 +1,4 @@
-# 📚 Library Management System
+<img width="1459" height="949" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/cecd2405-9e01-413b-8c50-de54a327e310" /># 📚 Library Management System
 
 A desktop-based Library Management System developed in **Python** using **Tkinter** and **SQLite**. The application provides an easy-to-use interface for managing books and allows users to browse, borrow, and purchase books while administrators can manage the library inventory.
 
@@ -75,10 +75,6 @@ python main.py
 
 
 
-Example:
-
-- Dashboard(Showing total books)
-- Book Management
 
 ---
 
